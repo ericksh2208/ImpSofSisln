@@ -4,4 +4,4 @@ Me gusta esta materia dado a que tiene que ver con las computadoras y me gusta m
 Siento que tengo una gran felicidad con esta mateteria y que es muy interesante todo estos temas de esta materia.
 
 
-![image alt](https://github.com/ericksh2208/ImpSofSisln/blob/82c2b7a2335f5f6664a10e2cb7c53b555e669ca4/images.jpg)
+![image alt](https://github.com/ericksh2208/ImpSofSisln/blob/3a57307325d781e8ed6923ddfa112c96316eb123/Implementacion%20de%20software%20(2).jpg)
